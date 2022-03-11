@@ -1,6 +1,6 @@
 # Take 5 - Teste para Analista de Testes Python
 
-O objetivo desse teste é avaliar as competências do candidato como um analista de testes Python com conhecimentos no framework **Django**.
+O objetivo desse teste é avaliar as competências do candidato como um analista de testes Python com conhecimentos no **Django Rest Framework**.
 
 ## Geral
 Execute um fork desse repositório para iniciar o seu trabalho. O repositório deve conter um README com os passos para rodar o seu projeto.
